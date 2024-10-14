@@ -20,7 +20,7 @@ Automating verbose feedback: Verbose mode lets users see what changes are being 
 Providing error handling: The script validates user input (like ownership format and permission values) to prevent errors and unexpected behavior.
 
 Basic Usage:
-./permissions_manager.sh [options] [file/directory...]
+./file_permissions_manager.sh [options] [file/directory...]
 
 Options:
 -h: Show help information for using the script.
