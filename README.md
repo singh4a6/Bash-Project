@@ -1,8 +1,9 @@
-# Bash-Project
+# File_Permissions_Manager
+
 
 The permissions_manager.sh script is a file permissions management tool that allows users to easily change the ownership and access permissions of files and directories. This script is designed to simplify the process of managing file permissions, especially for users who need to modify multiple files or directories at once. With intuitive command-line options, users can efficiently change ownership, modify file permissions, and enable a verbose mode for detailed output.
 
-#Features:
+Features:
 Change Ownership: Modify the ownership of files and directories by specifying a user and an optional group.
 Change Permissions: Update access permissions of files and directories using either symbolic (e.g., u+rwx) or numeric (e.g., 755) formats.
 Verbose Mode: View detailed information about the actions being performed.
